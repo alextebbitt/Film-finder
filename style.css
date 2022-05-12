@@ -1,0 +1,32 @@
+*{
+    background-color: aqua;
+}
+
+#image-of-film {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+    
+}
+#image-of-film > img  {
+    margin: 2rem;
+
+}
+
+#image-of-film > h1 {
+margin: 0rem 0rem 0rem;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+
+p {
+    margin-top: 0rem;
+    padding: 5rem;
+    margin: 0rem;
+}
